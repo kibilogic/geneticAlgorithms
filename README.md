@@ -1,3 +1,3 @@
 # geneticAlgorithms
 
-misc code in python
+misc GA code in python
